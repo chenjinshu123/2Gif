@@ -1,5 +1,5 @@
 node_modules/
-img
+img/
 test
 package-lock.json
 yarn.lock
