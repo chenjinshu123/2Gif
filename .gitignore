@@ -1,4 +1,5 @@
 node_modules/
-
+img
+test
 package-lock.json
 yarn.lock
