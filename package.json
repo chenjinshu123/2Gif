@@ -2,7 +2,7 @@
   "name": "2gif",
   "version": "1.0.0",
   "description": "Simple GIF image generation",
-  "main": "index.js",
+  "main": "main.js",
   "repository": "https://github.com/chenjinshu123/2Gif.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
