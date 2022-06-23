@@ -5,11 +5,16 @@
   "main": "index.js",
   "repository": "https://github.com/chenjinshu123/2Gif.git",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "rollup": "^2.75.7"
+    "@babel/core": "^7.18.5",
+    "@babel/preset-env": "^7.18.2",
+    "rollup": "^2.75.7",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-terser": "^7.0.2"
   }
 }
